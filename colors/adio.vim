@@ -38,7 +38,7 @@ if &t_Co > 255
   "hl-ColorColumn     used for the columns set with 'colorcolumn'
   hi ColorColumn      ctermfg=none ctermbg=none cterm=none
   "hl-CursorLine      the screen line that the cursor is in when 'cursorline' is set
-  hi CursorLine       ctermfg=none ctermbg=none cterm=none
+  hi CursorLine       ctermfg=252 ctermbg=237 cterm=none
   "hl-CursorColumn    the screen column that the cursor is in when 'cursorcolumn' is set
   hi CursorColumn     ctermfg=none ctermbg=235  cterm=none
 
