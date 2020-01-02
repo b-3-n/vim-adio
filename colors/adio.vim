@@ -32,7 +32,7 @@ if &t_Co > 255
   hi VertSplit        ctermfg=234  ctermbg=none cterm=none
   "hl-LineNr          Line number for ":number" and ":#" commands, and when 'number'
   "                    or 'relativenumber' option is set.
-  hi LineNr           ctermfg=236  ctermbg=233  cterm=none
+  hi LineNr           ctermfg=255  ctermbg=233  cterm=none
   "hl-CursorLineNr    Like LineNr when 'cursorline' is set for the cursor line.
   hi CursorLineNr     ctermfg=248  ctermbg=235  cterm=none
   "hl-ColorColumn     used for the columns set with 'colorcolumn'
@@ -63,7 +63,7 @@ if &t_Co > 255
   "                   'showbreak' and other characters that do not really exist 
   "                   in the text (e.g., ">" displayed when a double-wide
   "                   character doesn't fit at the end of the line).
-  hi NonText          ctermfg=236  ctermbg=none cterm=none
+  hi NonText          ctermfg=255  ctermbg=none cterm=none
   "hl-SpecialKey      Meta and special keys listed with ":map", also for text used to
   "                   show unprintable characters in the text, 'listchars'. Generally
   "                   text that is displayed differently from what it really is.
