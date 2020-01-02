@@ -104,7 +104,7 @@ if &t_Co > 255
   hi SignColumn       ctermfg=118  ctermbg=235  cterm=none
 
   "hl-Pmenu           Popup menu: normal item.
-  hi Pmenu            ctermfg=none ctermbg=none cterm=none
+  hi Pmenu            ctermfg=none ctermbg=27 cterm=none
   "hl-PmenuSel        Popup menu: selected item.
   hi PmenuSel         ctermfg=none ctermbg=none cterm=none
   "hl-PmenuSbar       Popup menu: scrollbar.
