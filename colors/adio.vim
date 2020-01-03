@@ -18,7 +18,7 @@ if &t_Co > 255
   "
 
   "hl-Normal          Normal text - always put Normal first - affects other colors
-  hi Normal           ctermfg=252  ctermbg=233  cterm=none
+  hi Normal           ctermfg=255  ctermbg=233  cterm=none
   "hl-Visual          Visual mode selection
   hi Visual           ctermfg=none ctermbg=243  cterm=none
 
