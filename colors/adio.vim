@@ -72,7 +72,7 @@ if &t_Co > 255
   "hl-Search          Last search pattern highlighting (see 'hlsearch'). Also used for 
   "                   highlighting the current line in the quickfix window and similar
   "                   items that need to stand out.
-  hi Search           ctermfg=255  ctermbg=235  cterm=none 
+  hi Search           ctermfg=255  ctermbg=130  cterm=none 
   "hl-IncSearch       'incsearch' highlighting; also used for the text replaced with ":s///c"
   hi IncSearch        ctermfg=232  ctermbg=153  cterm=none
 
