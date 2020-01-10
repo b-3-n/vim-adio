@@ -231,7 +231,7 @@ if &t_Co > 255
     " special things inside a comment
     hi SpecialComment  ctermfg=245  ctermbg=none cterm=none
     " special character in a constant
-    hi SpecialChar     ctermfg=161  ctermbg=none cterm=none
+    hi SpecialChar     ctermfg=51  ctermbg=none cterm=none
     " you can use CTRL-] on this
     hi Tag             ctermfg=161  ctermbg=none cterm=none
     " character that needs attention
