@@ -91,8 +91,8 @@ if &t_Co > 255
 
   "hl-DiffText        diff mode
   hi DiffText         ctermfg=116  ctermbg=232  cterm=none
-  hi DiffChange       ctermfg=235  ctermbg=248  cterm=none
-  hi DiffAdd          ctermfg=29   ctermbg=232  cterm=none
+  hi DiffChange       ctermfg=26  ctermbg=248  cterm=none
+  hi DiffAdd          ctermfg=10   ctermbg=232  cterm=none
   hi DiffDelete       ctermfg=88   ctermbg=232  cterm=none
 
   "hl-Folded          line used for closed folds
