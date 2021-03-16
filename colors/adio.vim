@@ -247,6 +247,7 @@ if &t_Co > 255
 
   "any erroneous construct
   hi Error             ctermfg=219  ctermbg=52   cterm=none
+  hi SpellBad          ctermfg=none  ctermbg=52   cterm=none
 
   "anything that needs extra attention; mostly the keywords TODO FIXME and XXX
   hi Todo              ctermfg=231  ctermbg=232  cterm=none
