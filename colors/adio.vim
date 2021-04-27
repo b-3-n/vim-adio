@@ -104,7 +104,7 @@ if &t_Co > 255
   hi SignColumn       ctermfg=118  ctermbg=235  cterm=none
 
   "hl-Pmenu           Popup menu: normal item.
-  hi Pmenu            ctermfg=none ctermbg=8 cterm=none
+  hi Pmenu            ctermfg=none ctermbg=234 cterm=none
   "hl-PmenuSel        Popup menu: selected item.
   hi PmenuSel         ctermfg=none ctermbg=27 cterm=none
   "hl-PmenuSbar       Popup menu: scrollbar.
@@ -294,8 +294,6 @@ if &t_Co > 255
   "hi rubyConditional
   "hi rubyRepeat
   "
-  
-  hi Pmenu ctermbg=234
 
 end
 
