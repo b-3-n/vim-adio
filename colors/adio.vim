@@ -293,6 +293,9 @@ if &t_Co > 255
   "hi rubyInterpolationDelimiter
   "hi rubyConditional
   "hi rubyRepeat
+  "
+  
+  hi Pmenu ctermbg=234
 
 end
 
